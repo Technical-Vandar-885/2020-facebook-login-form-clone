@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(231, 232, 238);
+}
+
+.texts{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 550px;
+    margin-top: 65px;
+    margin-left: -695px;
+    position: fixed;
+}
+h1{
+    font-size: 75px;
+    color: #1877f2;
+    margin: 25px;
+}
+h3{
+    font-weight: 500;
+    margin-left: 25px;
+    font-size: 30px;
+}
+.form-body{
+    margin-top: 125px;
+    margin-left: 855px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    width: 396px;
+    height: 355px;
+}
+.inputs{
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+    margin: 10px;
+    height: 52px;
+    margin: 15px;
+    width: 360px;
+    outline: none;
+    font-size: 20px;
+    border: 0.3px solid rgb(229, 211, 211);
+}
+
+.login{
+    border-radius: 10px;
+    margin: 10px;
+    height: 52px;
+    margin: 15px;
+    outline: none;
+    width: 360px;
+    text-align: center;
+    margin-left: 20px;
+    background-color: #1877f2;
+
+
+}
+.login a{
+    font-size: 25px;
+    display: block;
+    position: fixed;
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+    margin-left: 155px;
+}
+.forpass{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 55px;
+    margin-left: -55px;
+    position: absolute;
+}
+.forpass a{
+    color: #1877f2;
+
+}
+.border{
+    position: absolute;
+    border: 0.5px solid black;
+    margin-top: 25px;
+    width: 390px;
+    margin-left: -20px;
+    margin-top: 105px;
+}
+.create{
+    background-color: #00a400;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 600;
+    height: 45px;
+    width: 200px;
+    margin-left: 60px;
+    margin-top: 115px;
+    position: fixed;
+
+}
+.create a{
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-left: 15px;
+    color: white;
+}
+.page{
+    margin-top: 175px;
+    position: fixed;
+}
+.page a{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+.page a:hover{
+    border-bottom: 1px solid black;
+}
+h2{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 130px;
+    font-weight: 400;
+    margin-top: 10px;
+}
